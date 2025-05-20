@@ -38,7 +38,7 @@ const About = ({isDarkMode}) => {
             initial={{opacity: 0}}
             whileInView={{opacity: 1}}
             transition={{duration: 0.6, delay: 0.8}}className='flex-1'>
-                <p className='text-center mb-10 max-w-2xl font-Ovo'>I am a passionate front-end developer from Sri Lanka and a 3rd-year Software Engineering student at SLIIT. 
+                <p className='text-center mb-10 max-w-2xl font-Ovo'>I am a passionate Software Engineer student from Sri Lanka and a 3rd-year Software Engineering student at SLIIT. 
                 I focus on creating intuitive and visually engaging user interfaces that provide seamless user experiences. 
                 With a strong eye for detail and a dedication to crafting responsive designs, 
                 I enjoy bringing ideas to life and solving challenges through innovative digital solutions.</p>
